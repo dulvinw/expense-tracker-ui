@@ -1,0 +1,7 @@
+.go-to-form {
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: center;
+    align-items: center;
+}
